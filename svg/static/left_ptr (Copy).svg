@@ -23,8 +23,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="4.6653959"
-     inkscape:cx="99.77717"
-     inkscape:cy="103.42102"
+     inkscape:cx="99.562827"
+     inkscape:cy="103.20668"
      inkscape:window-width="2560"
      inkscape:window-height="1363"
      inkscape:window-x="0"
@@ -57,25 +57,25 @@
        id="linearGradient15"
        inkscape:collect="always">
       <stop
-         style="stop-color:#ff8000;stop-opacity:0;"
+         style="stop-color:#ff8000;stop-opacity:1;"
          offset="0"
-         id="stop17" />
-      <stop
-         style="stop-color:#ff8000;stop-opacity:0.22352941;"
-         offset="0.16200334"
-         id="stop20" />
-      <stop
-         style="stop-color:#ff8000;stop-opacity:0.44517434;"
-         offset="0.77281329"
-         id="stop19" />
+         id="stop16" />
       <stop
          style="stop-color:#ff8000;stop-opacity:0.800731;"
-         offset="0.84182577"
+         offset="0.15817423"
          id="stop18" />
       <stop
-         style="stop-color:#ff8000;stop-opacity:1;"
+         style="stop-color:#ff8000;stop-opacity:0.44517434;"
+         offset="0.22718671"
+         id="stop19" />
+      <stop
+         style="stop-color:#ff8000;stop-opacity:0.22352941;"
+         offset="0.83799666"
+         id="stop20" />
+      <stop
+         style="stop-color:#ff8000;stop-opacity:0;"
          offset="1"
-         id="stop16" />
+         id="stop17" />
     </linearGradient>
     <filter
        id="filter0_d"
