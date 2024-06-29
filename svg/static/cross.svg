@@ -1,22 +1,136 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" fill="none">
-  <g opacity="0.01">
-    <path opacity="0.01" d="M200 0H0V200H200V0Z" fill="#0000FF"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="cross.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.485"
+     inkscape:cx="160.16408"
+     inkscape:cy="100"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <g
+     opacity="0.01"
+     id="g1">
+    <path
+       opacity="0.01"
+       d="M200 0H0V200H200V0Z"
+       fill="#0000FF"
+       id="path1" />
   </g>
-  <g filter="url(#filter0_d)">
-    <rect x="52" y="53" width="97" height="95" rx="30" fill="#414141"/>
+  <g
+     filter="url(#filter0_d)"
+     id="g2"
+     style="fill-opacity:1;fill:url(#radialGradient5)">
+    <rect
+       x="52"
+       y="53"
+       width="97"
+       height="95"
+       rx="30"
+       fill="#414141"
+       id="rect1"
+       style="fill-opacity:1.0;fill:url(#radialGradient5)" />
   </g>
-  <rect x="72" y="72" width="57" height="57" rx="28.5" fill="#0000FF"/>
-  <defs>
-    <filter id="filter0_d" x="40" y="43" width="121" height="119" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-      <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="effect1_dropShadow"/>
-      <feOffset dy="2"/>
-      <feGaussianBlur stdDeviation="5"/>
-      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
-      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ff8000;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#ff8000;stop-opacity:0.99687248;"
+         offset="0.39015526"
+         id="stop6" />
+      <stop
+         style="stop-color:#ff8000;stop-opacity:0.52108872;"
+         offset="0.52687812"
+         id="stop7" />
+      <stop
+         style="stop-color:#ff8000;stop-opacity:0;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <filter
+       id="filter0_d"
+       x="40"
+       y="43"
+       width="121"
+       height="119"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood2" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         id="feColorMatrix2" />
+      <feMorphology
+         radius="2"
+         operator="dilate"
+         in="SourceAlpha"
+         result="effect1_dropShadow"
+         id="feMorphology2" />
+      <feOffset
+         dy="2"
+         id="feOffset2" />
+      <feGaussianBlur
+         stdDeviation="5"
+         id="feGaussianBlur2" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+         id="feColorMatrix3" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow"
+         id="feBlend3" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow"
+         result="shape"
+         id="feBlend4" />
     </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="radialGradient5"
+       cx="100.50008"
+       cy="102.37589"
+       fx="100.50008"
+       fy="102.37589"
+       r="60.5"
+       gradientTransform="matrix(0.99790751,0,7.1749795e-6,0.98454514,0.20948549,1.5842561)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
 </svg>
